@@ -13,6 +13,7 @@
   "scripts": {
     "start": "node index.js",
     "start2": "node index2.js",
-    "start3": "node index3.js"
+    "start3": "node index3.js",
+    "start4": "node index4.js"
   }
 }
